@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+
+
+    <string name="api_key">hkttbvmsjv5y</string>
+<string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibnZuYXZuZWV0In0.LpeQndjEiYqLfs2LSzmZPySa8mTmlui1F8T_QJ93vxo</string>
+    <!-- nvnavneet -->
+    </resources>
+
